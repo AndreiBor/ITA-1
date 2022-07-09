@@ -10,6 +10,7 @@ public class AnimalWorld {
         AnimalWorld animalWorld = new AnimalWorld();
         animalWorld.getAnimalVoice(new Cat());
         animalWorld.getAnimalVoice(new Dog());
+        animalWorld.getAnimalVoice(new Goat());
     }
 
 }
