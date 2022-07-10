@@ -11,6 +11,7 @@ public class AnimalWorld {
         animalWorld.getAnimalVoice(new Cat());
         animalWorld.getAnimalVoice(new Dog());
         animalWorld.getAnimalVoice(new Goat());
+        animalWorld.getAnimalVoice(new Duck());
     }
 
 }
